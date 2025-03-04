@@ -9,7 +9,7 @@
     - Itch.io: https://bass616.itch.io/
     - Gmail: pongsakornpongsuwakorn@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a complex individual with a unique perspective on the world. I value deep conversations, but I also appreciate silence. I'm driven by a desire to understand the nature of reality, consciousness, and the potential of technology, even if those explorations sometimes lead me down unconventional paths. I'm not afraid to be different.
+- ⚡ Fun fact: I'm a complex individual with a unique perspective on the world. I value deep conversations, but I also appreciate silence. I'm driven by a desire to understand the nature of reality, consciousness, and the potential of technology, even if those explorations sometimes lead me down unconventional paths. I'm not afraid to be different. I also leverage tools like generative AI (including models like those in Google AI Studio) to assist in my creative process and explore different writing styles.
 
 <!---
 Bass616/Bass616 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
